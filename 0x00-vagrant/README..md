@@ -1,0 +1,1 @@
+<sub><sup>Small text</sup></sub>
